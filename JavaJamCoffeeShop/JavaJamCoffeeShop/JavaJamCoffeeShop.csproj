@@ -58,9 +58,18 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="images\background.gif" />
+    <Content Include="images\favicon.ico" />
+    <Content Include="images\greg.jpg" />
+    <Content Include="images\gregthumb.jpg" />
+    <Content Include="images\javalogo.gif" />
+    <Content Include="images\melanie.jpg" />
+    <Content Include="images\melaniethumb.jpg" />
+    <Content Include="images\windingroad.jpg" />
     <Content Include="index.html" />
     <Content Include="JavaJamStyle.css" />
     <Content Include="menu.html" />
+    <Content Include="music.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
